@@ -6,3 +6,12 @@ backend/*.pyc
 node_modules/
 frontend/.next/
 frontend/node_modules/
+
+# ai-site-monitor
+ai-site-monitor/venv/
+ai-site-monitor/.venv/
+ai-site-monitor/__pycache__/
+ai-site-monitor/*.pyc
+ai-site-monitor/.env
+ai-site-monitor/*.log
+ai-site-monitor/*.db
