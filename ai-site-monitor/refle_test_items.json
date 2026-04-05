@@ -1,0 +1,37 @@
+[
+  {
+    "shop_name": "KOBE QUEEN（コウベクイーン）",
+    "official_url": "https://osaka.refle.info/pUrl/kobe-queen/",
+    "phone": "090-6676-0020",
+    "address": "三宮 / JR東海道本線「三ノ宮駅」・阪急各線／阪神本線「神戸三宮駅」・ポートアイランド線「三宮駅」・地下鉄各線「三宮駅」より徒歩5分",
+    "hours": "9:00～翌3:00"
+  },
+  {
+    "shop_name": "The.gloss（ザ・グロス）",
+    "official_url": "",
+    "phone": "080-3039-4363",
+    "address": "堺筋本町 / 大阪メトロ（Osaka Metro）各線「堺筋本町駅」より徒歩4分",
+    "hours": "9:00～翌5:00（受付時間9:00～翌3:00）"
+  },
+  {
+    "shop_name": "癒し待夢（いやしたいむ）",
+    "official_url": "https://osaka.refle.info/pUrl/184time/",
+    "phone": "080-4482-5921",
+    "address": "出張（大阪） / 大阪市24区・大阪市近郊地域のご自宅、宿泊先のホテルへ出張させていただきます。",
+    "hours": "18:00～翌5:00（最終受付）"
+  },
+  {
+    "shop_name": "Mrs.Grace Spa（ミセスグレイススパ）",
+    "official_url": "https://osaka.refle.info/pUrl/mrs-grace-spa/",
+    "phone": "070-3641-0411",
+    "address": "三宮 / JR東海道本線「三ノ宮駅」・阪急各線／阪神本線「神戸三宮駅」・ポートアイランド線「三宮駅」・地下鉄各線「三宮駅」より徒歩5分",
+    "hours": "10:00～翌3:00"
+  },
+  {
+    "shop_name": "Reve MISTREA（レーヴ ミストレア）",
+    "official_url": "https://osaka.refle.info/pUrl/reve-mistrea/",
+    "phone": "090-9644-9612",
+    "address": "梅田 / 阪急各線／阪神本線「大阪梅田駅」より徒歩10分、地下鉄御堂筋線「梅田駅」より徒歩10分、地下鉄谷町線「東梅田駅」より徒歩10分、JR各線「大阪駅」より徒歩15分",
+    "hours": "11:00～翌3:00（最終受付）"
+  }
+]
