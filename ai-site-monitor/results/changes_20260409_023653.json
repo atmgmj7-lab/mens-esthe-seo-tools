@@ -1,0 +1,17 @@
+{
+  "run_id": "20260409_023653",
+  "total_sites": 4,
+  "changed_count": 2,
+  "changed_sites": [
+    {
+      "url": "https://mens-esthe-kuchikomi.com/area/osaka/",
+      "summary": "## 2つの矩形の重なり合う面積の計算方法\n\n与えられた情報から、2つの矩形が重なり合う面積を計算する方法を説明します。\n\n### 矩形の定義\n\n各矩形は、その位置とサイズで定義されます。\n\n*   **X**: 矩形の左端のX座標\n*   **Y**: 矩形の上端のY座標\n*   **W**: 矩形の幅\n*   **H**: 矩形の高さ\n\nこれにより、各矩形の境界は以下のように表せます。\n\n*   **X座標の範囲**: $[X, X+W]$\n*   **Y座標の範囲**: $[Y, Y+H]$\n\n### 計算手順\n\n2つの矩形を$R_1$と$R_2$とします。\n\n$R_1$: $(X_1, Y_1, W_1, H_1)$\n$R_2$: $(X_2, Y_2, W_2, H_2)$\n\n#### 1. X軸方向の重なり幅を計算する\n\n1.  **$R_1$のX座標範囲**: $[X_1, X_1 + W_1]$\n2.  **$R_2$のX座標範囲**: $[X_2, X_2 + W_2]$\n\n   重なり合う範囲の左端は、2つの矩形の左端のうち最も右にあるものです。\n   `overlap_x_left = max(X_1, X_2)`\n\n   重なり合う範囲の右端は、2つの矩形の右端のうち最も左にあるものです。\n   `overlap_x_right = min(X_1 + W_1, X_2 + W_2)`\n\n   X軸方向の重なり幅は、右端から左端を引いたものです。\n   `overlap_width = overlap_x_right - overlap_x_left`\n\n   もし`overlap_width`が負の値になった場合、X軸方向には重なりがないため、`overlap_width`は`0`とします。\n   `overlap_width = max(0, overlap_width)`\n\n#### 2. Y軸方向の重なり高さを計算する\n\n1.  **$R_1$のY座標範囲**: $[Y_1, Y_1 + H_1]$\n2.  **$R_2$のY座標範囲**: $[Y_2, Y_2 + H_2]$\n\n   重なり合う範囲の上端は、2つの矩形の上端のうち最も下にあるものです。\n   `overlap_y_top = max(Y_1, Y_2)`\n\n   重なり合う範囲の下端は、2つの矩形の下端のうち最も上にあるものです。\n   `overlap_y_bottom = min(Y_1 + H_1, Y_2 + H_2)`\n\n   Y軸方向の重なり高さは、下端から上端を引いたものです。\n   `overlap_height = overlap_y_bottom - overlap_y_top`\n\n   もし`overlap_height`が負の値になった場合、Y軸方向には重なりがないため、`overlap_height`は`0`とします。\n   `overlap_height = max(0, overlap_height)`\n\n#### 3. 重なり合う面積を計算する\n\nX軸方向の重なり幅とY軸方向の重なり高さを掛け合わせます。\n\n`overlap_area = overlap_width * overlap_height`\n\n### まとめ\n\nこの方法で、任意の2つの軸に平行な矩形（長方形）の重なり合う面積を正確に計算できます。どちらか一方の軸で重なりがなければ、結果として得られる面積は0になります。",
+      "detected_at": "20260409_023653"
+    },
+    {
+      "url": "https://mens-esthe-kuchikomi.com/area/shinsaibashi/",
+      "summary": "ご提示いただいたURLのページ内容が変更されたとのことですが、変更前のページ内容が提供されていないため、変更点を特定し要約することはできません。\n\n変更点を抽出するためには、変更前と変更後の両方のテキストが必要となります。お手数ですが、変更前の内容もご提供いただけますでしょうか。",
+      "detected_at": "20260409_023653"
+    }
+  ]
+}
