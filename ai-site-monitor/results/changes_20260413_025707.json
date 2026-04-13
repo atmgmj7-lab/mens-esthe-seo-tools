@@ -1,0 +1,12 @@
+{
+  "run_id": "20260413_025707",
+  "total_sites": 4,
+  "changed_count": 1,
+  "changed_sites": [
+    {
+      "url": "https://mens-esthe-kuchikomi.com/area/nihonbashi/",
+      "summary": "日本橋のメンズエステ情報ページが更新されました。\n複数の店舗（アテナ、rinse、genie、俺のエステ、Luna Soin SPA、J1、SPAハイスペ）で料金が「0円」と表示されており、価格表示形式に大きな変更が見られます。\nまた、ページ下部の「大阪の他のエリア」リストが重複して掲載されています。",
+      "detected_at": "20260413_025707"
+    }
+  ]
+}
