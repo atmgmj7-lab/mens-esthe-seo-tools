@@ -1,0 +1,17 @@
+{
+  "run_id": "20260421_025137",
+  "total_sites": 4,
+  "changed_count": 2,
+  "changed_sites": [
+    {
+      "url": "https://mens-esthe-kuchikomi.com/area/osaka/",
+      "summary": "解析エラー: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "detected_at": "20260421_025137"
+    },
+    {
+      "url": "https://mens-esthe-kuchikomi.com/area/shinsaibashi/",
+      "summary": "変更前の情報がないため、ページ内容の具体的な変更点を要約することはできません。\n\n提供された情報からは、心斎橋のメンズエステ11店舗のリストが掲載されており、各店舗の営業時間と料金（一部0円、その他12,000円～16,500円）が記載されています。さらに、大阪の他エリア（梅田59件、日本橋59件など）の店舗数も併記されています。",
+      "detected_at": "20260421_025137"
+    }
+  ]
+}
