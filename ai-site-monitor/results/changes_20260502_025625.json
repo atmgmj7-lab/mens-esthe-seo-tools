@@ -1,0 +1,17 @@
+{
+  "run_id": "20260502_025625",
+  "total_sites": 4,
+  "changed_count": 2,
+  "changed_sites": [
+    {
+      "url": "https://mens-esthe-kuchikomi.com/area/osaka/",
+      "summary": "「大阪のメンズエステ」ページが更新され、**詳細エリアごとの店舗数が明記**されました。特に堺筋本町(93件)、本町(89件)、梅田(59件)など、具体的な店舗数を基にユーザーは希望エリアをより探しやすくなっています。また、rinseやgenie、アテナ等、**多数のメンズエステ店舗情報が追加・更新**されています。料金は現時点ですべて「0円」表示です。",
+      "detected_at": "20260502_025625"
+    },
+    {
+      "url": "https://mens-esthe-kuchikomi.com/area/nihonbashi/",
+      "summary": "変更前のページ内容が提示されていないため、提供された情報のみでは変更点を特定し要約することはできません。",
+      "detected_at": "20260502_025625"
+    }
+  ]
+}
