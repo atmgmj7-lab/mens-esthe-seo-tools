@@ -1,0 +1,17 @@
+{
+  "run_id": "20260508_032526",
+  "total_sites": 4,
+  "changed_count": 2,
+  "changed_sites": [
+    {
+      "url": "https://mens-esthe-kuchikomi.com/area/nihonbashi/",
+      "summary": "変更前のページ内容が提示されていないため、提供されたテキストから変更点を特定し、要約することはできません。",
+      "detected_at": "20260508_032526"
+    },
+    {
+      "url": "https://mens-esthe-kuchikomi.com/area/shinsaibashi/",
+      "summary": "恐れ入りますが、変更前のページ内容が提供されていないため、変更点を特定し要約することができません。\n\n変更前のテキストもご提示いただければ、比較して変更点を要約いたします。",
+      "detected_at": "20260508_032526"
+    }
+  ]
+}
