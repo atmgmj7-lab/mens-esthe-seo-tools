@@ -1,0 +1,22 @@
+{
+  "run_id": "20260527_040513",
+  "total_sites": 4,
+  "changed_count": 3,
+  "changed_sites": [
+    {
+      "url": "https://mens-esthe-kuchikomi.com/area/osaka/",
+      "summary": "大阪のメンズエステページが更新されました。主要エリアごとの店舗数が具体的に提示され（例: 堺筋本町93件、本町89件など）、各エリアの状況が明確になりました。また、アテナ、genie、メンズリゼクリニック心斎橋院といった個別店舗の名称、営業時間、最終更新日を含む詳細なリストが追加されています。",
+      "detected_at": "20260527_040513"
+    },
+    {
+      "url": "https://mens-esthe-kuchikomi.com/area/nihonbashi/",
+      "summary": "提供されたテキストは変更後のページ内容であり、変更前のページ内容が不明なため、具体的な変更点を特定し、要約することはできません。\n\n変更点を要約するためには、変更前と変更後の両方の内容を比較する必要があります。",
+      "detected_at": "20260527_040513"
+    },
+    {
+      "url": "https://mens-esthe-kuchikomi.com/area/shinsaibashi/",
+      "summary": "心斎橋のメンズエステ店舗一覧ページが更新されました。主な変更点として、メンズリゼクリニックやゴリラクリニック、VISCONTI、なにわ女子、LUXY、Un Secret、Sanandoを含む計7店舗の情報が2026年5月27日付けで更新されています。特にVISCONTI、なにわ女子、LUXY、Un Secretの4店舗には新たに「出勤中」の表示が追加され、リアルタイムの稼働状況がわかるようになりました。",
+      "detected_at": "20260527_040513"
+    }
+  ]
+}
