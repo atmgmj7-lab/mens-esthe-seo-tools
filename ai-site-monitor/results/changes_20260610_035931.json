@@ -1,0 +1,22 @@
+{
+  "run_id": "20260610_035931",
+  "total_sites": 4,
+  "changed_count": 3,
+  "changed_sites": [
+    {
+      "url": "https://mens-esthe-kuchikomi.com/area/osaka/",
+      "summary": "解析エラー: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "detected_at": "20260610_035931"
+    },
+    {
+      "url": "https://mens-esthe-kuchikomi.com/area/nihonbashi/",
+      "summary": "解析エラー: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "detected_at": "20260610_035931"
+    },
+    {
+      "url": "https://mens-esthe-kuchikomi.com/area/shinsaibashi/",
+      "summary": "心斎橋のメンズエステ店舗情報が更新されました。VISCONTI、なにわ女子、LUXY、Un Secret、Sanandoなど多数の店舗で「出勤中」ステータスが追記され、最終更新日が2026年6月10日（一部店舗は5月28日）に更新されています。",
+      "detected_at": "20260610_035931"
+    }
+  ]
+}
