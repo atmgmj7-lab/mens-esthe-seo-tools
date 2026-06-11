@@ -1,0 +1,22 @@
+{
+  "run_id": "20260611_041332",
+  "total_sites": 4,
+  "changed_count": 3,
+  "changed_sites": [
+    {
+      "url": "https://mens-esthe-kuchikomi.com/area/osaka/",
+      "summary": "大阪のメンズエステページが更新されました。詳細エリアごとの店舗数表示が加わり、地図検索機能の強化が示唆されます。また、個別の店舗リストには、「出勤中」ステータスや最終更新日、営業時間といった詳細情報が追加され、より最新かつ具体的な店舗情報が提供されるようになりました。",
+      "detected_at": "20260611_041332"
+    },
+    {
+      "url": "https://mens-esthe-kuchikomi.com/area/nihonbashi/",
+      "summary": "変更前のデータが提供されていないため正確な変更箇所の特定はできませんが、提示された最新ページ内容は以下の通りです。\n\n大阪・日本橋のメンズエステ情報が掲載されており、深夜営業や多様なジャンル等のエリア特徴の解説に加え、「アテナ」や「rinse」など10店舗の営業時間、料金、更新日が網羅されています。また、堺筋本町（93件）や本町（89件）など、大阪全域の他エリアの登録店舗数（計248件）の一覧も整理されています。（198文字）",
+      "detected_at": "20260611_041332"
+    },
+    {
+      "url": "https://mens-esthe-kuchikomi.com/area/shinsaibashi/",
+      "summary": "解析エラー: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "detected_at": "20260611_041332"
+    }
+  ]
+}
