@@ -1,0 +1,12 @@
+{
+  "run_id": "20260719_025555",
+  "total_sites": 4,
+  "changed_count": 1,
+  "changed_sites": [
+    {
+      "url": "https://mens-esthe-kuchikomi.com/",
+      "summary": "解析エラー: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key not valid. Please pass a valid API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key not valid. Please pass a valid API key.'}]}}",
+      "detected_at": "20260719_025555"
+    }
+  ]
+}
